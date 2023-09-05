@@ -22,6 +22,8 @@
 # name_age_movie= input("What is your name, age and favorite movie?")
 # print(name_age_movie)
 # F-String Practice:
+print("more stuff)")
+
 
 # Create a Python program that asks the user for three objects in the room.
 # Create variables from these objects and insert those variables into an f-string sentence.
@@ -40,7 +42,7 @@
 
 sent2= input("write a sentence")
 print(sent2)
-reversed_sent2= 
+ 
 # Advanced Input Practice:
 
 # Create a Python program that asks the user for the name of their favorite book, movie, and song.
